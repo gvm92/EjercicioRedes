@@ -1,9 +1,10 @@
 # EjercicioRedes
 
 Hay 3 supredes (VLSM),
-*La primera con soporte para 100 host con dirección de red 192.168.1.0/25.
-*La segunda con soporte para 30 con dirección de red 192.168.1.128/27.
-*Y por último la tercera para 6 host con dirección de red 192.168.1.161/25 y solo ésta puede acceder fuera. Cada una tendrá cuatro ordenadores conectados.
+* La primera con soporte para 100 host con dirección de red 192.168.1.0/25.
+* La segunda con soporte para 30 con dirección de red 192.168.1.128/27.
+* Y por último la tercera para 6 host con dirección de red 192.168.1.161/25 y solo ésta puede acceder fuera. Cada una tendrá cuatro ordenadores conectados.
+
 8 ordenadores con DHCP con dirección de red 192.168.2.0/24.
 4 ordenadores con DHCP con dirección de red 192.168.3.0/24.
 4 ordenadores con IP fija, un punto de enlace con 5 ordenadores con DHCP con dirección de red 192.168.4.0/24.
